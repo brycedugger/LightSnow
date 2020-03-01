@@ -1,6 +1,6 @@
 # Light-Snow
 
-[Live Site](brycedugger.github.io/LightSnow)
+[Live Site](https://brycedugger.github.io/LightSnow/)
 
 [Demonstration of Light Bulb Connectivity](https://imgur.com/gallery/czgMh7R)
 
